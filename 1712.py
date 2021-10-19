@@ -12,5 +12,3 @@ temp = C - B
 result = int(A / temp) + 1
 
 print(result)
-
-
